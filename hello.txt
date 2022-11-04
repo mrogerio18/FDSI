@@ -7,3 +7,5 @@ Iniciou as 19h.
 Registrei minha presença.
 
 A aula iniciou no horário previsto.
+
+Consegui configurar meu git hub
